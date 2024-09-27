@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Android Development, Frameworks, Courses etc.<br>👯 I’m looking to collaborate on development and problem solving<br>🤝 I’m looking for develop products which help people's problem.<br>🌱 I’m currently learning IOT, AI Problem Solving<br>💬 Ask me about Technology <br>⚡ How to reach me surajkaranbhambiofficial@gmail.com
+🔭 I’m currently working on Android , Flutter and Web Development, Frameworks, Courses etc.<br>👯 I’m looking to collaborate on development and problem solving<br>🤝 I’m looking for develop products which help people's problem.<br>🌱 I’m currently learning System Level Application, IOT, AI Problem Solving<br>💬 Ask me about Technology <br>⚡ How to reach me surajkaranbhambiofficial@gmail.com
 
 
 ## 🌐 Socials:
